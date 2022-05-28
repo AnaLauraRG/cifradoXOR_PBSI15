@@ -1,2 +1,3 @@
-# cifradoXOR_PBSI15
+# Ciptografía. Práctica 2
+## Plan de Becarios en Seguridad Informática
 Cifrado XOR
